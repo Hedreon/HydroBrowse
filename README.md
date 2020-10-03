@@ -1,2 +1,2 @@
 # HydroBrowse
-Open source project
+Open source browser
