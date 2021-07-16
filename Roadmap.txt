@@ -1,0 +1,2 @@
+- Add support for downloading and JS
+- somehow change the browser right click menu & replace view page source code to the modern code that uses docked dev tools & not your default editor (Notepad)
